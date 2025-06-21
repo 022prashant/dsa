@@ -4,7 +4,9 @@ void main(){
     int b = 9;
     int sum = a+b;
     int dif = a-b;
+    int mul = a*b;
   printf("sum is :%d \n",sum);
-  printf("sum is :%d",dif);
+  printf("diff is :%d\n",dif);
+  printf("mul is :%d",mul);
 
-}
+} 
